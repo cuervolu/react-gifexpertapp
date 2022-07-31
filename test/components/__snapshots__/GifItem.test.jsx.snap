@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifItem Evaluar snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="YugiOH"
+      src="https://www.udemy.com/"
+    />
+    <p>
+      YugiOH
+    </p>
+  </div>
+</div>
+`;
